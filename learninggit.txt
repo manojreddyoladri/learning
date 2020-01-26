@@ -1,4 +1,5 @@
 git
 branches
 commit
+repo
 these are the technical terms in git
