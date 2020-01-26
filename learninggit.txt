@@ -1,0 +1,4 @@
+git
+branches
+commit
+these are the technical terms in git
