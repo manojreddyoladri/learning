@@ -2,5 +2,6 @@ git branching 1
 branches
 commit
 repo
+issues
 these are the technical terms in git
 learning about branching
