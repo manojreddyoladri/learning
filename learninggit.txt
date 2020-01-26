@@ -3,5 +3,6 @@ branches
 commit
 repo
 issues
+issues closing 
 these are the technical terms in git
 learning about branching
